@@ -56,6 +56,13 @@ Contributions welcome! Key areas include game mechanics, AI improvements, testin
 
 MIT License - See [LICENSE](LICENSE)
 
+## Author Information
+
+This project is developed by liecn. Below is a list of other repositories the author is working on:
+- [Repository 1](https://github.com/liecn/repo1)
+- [Repository 2](https://github.com/liecn/repo2)
+- [Repository 3](https://github.com/liecn/repo3)
+
 ---
 
 *Building the classic arcade experience, one character at a time.*
