@@ -9,7 +9,7 @@ This project recreates the Pacman experience in the terminal, featuring authenti
 ## Technical Scope
 
 - **Rendering Engine**: Custom ANSI-based renderer with double-buffering
-- **Game Logic**: Complete Pacman rules, scoring, and level progression  
+- **Game Logic**: Complete Pacman rules, scoring, and level progression
 - **Ghost AI**: Faithful recreation of Blinky, Pinky, Inky, and Clyde behaviors
 - **Input System**: Non-blocking keyboard controls
 - **Performance**: Optimized for smooth terminal gameplay
@@ -49,8 +49,8 @@ Contributions welcome! Key areas include game mechanics, AI improvements, testin
 
 ## References
 
-- [The Pac-Man Dossier](https://www.gamasutra.com/view/feature/3938/the_pacman_dossier.php) - Original game mechanics
-- [ANSI Escape Sequences](https://en.wikipedia.org/wiki/ANSI_escape_code) - Terminal control reference
+- [The Pac-Man Dossier](https://www.gamasutra.com/view/feature/3938/the_pacman_dossier.php)
+- [ANSI Escape Sequences](https://en.wikipedia.org/wiki/ANSI_escape_code)
 
 ## License
 
@@ -58,10 +58,19 @@ MIT License - See [LICENSE](LICENSE)
 
 ## Author Information
 
-This project is developed by liecn. Below is a list of other repositories the author is working on:
-- [Repository 1](https://github.com/liecn/repo1)
-- [Repository 2](https://github.com/liecn/repo2)
-- [Repository 3](https://github.com/liecn/repo3)
+Below is a collection of README content from some of the author’s other repositories, as requested by Issue #1.
+
+### From PyramidFL (MobiCom'22)
+"...PyramidFL: Fine-grained Data and System Heterogeneity-aware Client Selection for Efficient Federated Learning...\nThis repository contains scripts/instructions for reproducing the experiments in our MobiCom’22 paper..."
+
+### From CurvingLoRa_NSDI22 (NSDI'22)
+"...CurvingLoRa to Boost LoRa Network Throughput via Concurrent Transmission...\nThis repository contains scripts/instructions for reproducing experiments in our NSDI’22 paper..."
+
+### From cnli.me
+"...BioPage: [cnli.me](https://cnli.me/)\nWe thank [Chenshu wu](https://cswu.me/) for providing the design template of this webpage..."
+
+### From WiVelo_SECON22 (SECON'22)
+"...WiVelo: Fine-grained Walking Velocity Estimation for Wi-Fi Passive Tracking...\nThis repository contains scripts and instructions for reproducing the experiments in our SECON’22 paper..."
 
 ---
 
